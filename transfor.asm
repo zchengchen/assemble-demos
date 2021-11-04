@@ -1,5 +1,5 @@
 DATAS SEGMENT
-	MENU0 DB "---------------------------MENU---------------------------",0DH,0AH
+    MENU0 DB "---------------------------MENU---------------------------",0DH,0AH
     MENU1 DB "|X. Conversion of Uppercase to lowercase letters.        |",0DH,0AH
     MENU2 DB "|Y. Conversion of decimal numbers to hexadecimal numbers.|",0DH,0AH
     MENU3 DB "|Z. Conversion of hexadecimal numbers to decimal numbers.|",0DH,0AH
