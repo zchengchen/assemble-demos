@@ -1,4 +1,4 @@
-# tel_table.asm
+# x86-Assembly-Toys
 All files should be run under DOS condition. You can use DosBox to run them.
 
 ## Screenshots
