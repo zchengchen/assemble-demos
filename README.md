@@ -2,10 +2,10 @@
 All files should be run under DOS condition. You can use DosBox to run them.
 
 ## Screenshots
-**Conversion**
+### Conversion
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%873.png)
 
-**Student information management**
+### Student information management
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%874.png)
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%875.png)
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%876.png)
@@ -16,5 +16,5 @@ All files should be run under DOS condition. You can use DosBox to run them.
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%8711.png)
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%8712.png)
 
-**Calculator**
+### Calculator
 ![image](https://github.com/zchengchen/images/blob/main/X86-Assembly-Toys/%E5%9B%BE%E7%89%8713.png)
